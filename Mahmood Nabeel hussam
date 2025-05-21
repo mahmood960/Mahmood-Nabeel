@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>محمود نبيل | مدير تسويق ومصمم</title>
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Cairo', sans-serif;
+      background-color: #fdfdfd;
+      color: #2b2b2b;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      background: #fff;
+      padding: 40px;
+      border-radius: 20px;
+      box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+    }
+    .hero {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+    .hero img {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-bottom: 20px;
+      border: 4px solid #eee;
+    }
+    .hero h1 {
+      font-size: 32px;
+      margin: 10px 0;
+      color: #1c1c1c;
+    }
+    .hero p {
+      font-size: 18px;
+      color: #555;
+    }
+    h2 {
+      border-bottom: 2px solid #eee;
+      padding-bottom: 6px;
+      margin-top: 30px;
+      color: #333;
+    }
+    ul {
+      padding-right: 20px;
+      list-style: square;
+    }
+    li {
+      margin-bottom: 12px;
+    }
+    .section {
+      margin-top: 20px;
+    }
+    .footer {
+      text-align: center;
+      margin-top: 50px;
+      font-size: 14px;
+      color: #aaa;
+    }
+    .skills {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .skill {
+      background: #eef0f2;
+      padding: 8px 14px;
+      border-radius: 8px;
+      font-size: 15px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="hero">
+      <img src="https://via.placeholder.com/150" alt="صورة محمود نبيل">
+      <h1>محمود نبيل</h1>
+      <p>مدير تسويق | مصور | مونتير | مصمم كرافيك</p>
+      <p>من 2014 وأنا أحوّل الأفكار إلى واقع... بالصورة، بالصوت، وبالرسالة الصح.</p>
+    </div>
+
+    <div class="section">
+      <h2>رحلتي المهنية</h2>
+      <ul>
+        <li>مصمم في صحيفة الصباح الجديد (2014 - 2021)</li>
+        <li>مصمم كرافيك في شركة طباعة إعلانية (2017 - 2019)</li>
+        <li>مدير قسم الميديا في شركة دورشستر – مجمع بوابة العراق (2019 - 2023)</li>
+        <li>مدير تسويق في شركة أمواج الدولية (2023 - 2025)</li>
+        <li>مدير تسويق في شركة دقة الإسكان للاستثمار والتطوير العقاري (2025 - الآن)</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>مهاراتي</h2>
+      <div class="skills">
+        <div class="skill">قيادة الفرق التسويقية</div>
+        <div class="skill">التصميم الإعلاني</div>
+        <div class="skill">تحرير الفيديو والمونتاج</div>
+        <div class="skill">التصوير التجاري</div>
+        <div class="skill">بناء الهوية البصرية</div>
+        <div class="skill">كتابة المحتوى التسويقي</div>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>تواصل وياي</h2>
+      <ul>
+        <li>واتساب: 077xxxxxxx</li>
+        <li>إنستغرام: @mahmoud.visuals</li>
+        <li>لينكدإن: linkedin.com/in/mahmoud-nabil</li>
+        <li>إيميل: mahmoud@email.com</li>
+      </ul>
+    </div>
+
+    <div class="footer">
+      &copy; 2025 محمود نبيل – جميع الحقوق محفوظة
+    </div>
+  </div>
+</body>
+</html>
